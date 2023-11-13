@@ -47,5 +47,14 @@ Initial Description and Link:
 * https://github.com/acatlin/FALL2023TIDYVERSE/blob/main/sean_amato_tidyverse_create.rmd
 
 Data Source:
-* https://www.kaggle.com/datasets/iamsouravbanerjee/years-of-schooling-worldwide/  
+* https://www.kaggle.com/datasets/iamsouravbanerjee/years-of-schooling-worldwide/
+
+* # Frederick Jones
+* filter(), mutate()
+* How to use filter() to get data from rows of the dataframe. 
+* How to use mutate() to crate a new variable based on some calculation on the variables present in the given dataframe
+* https://github.com/jewelercart/R/blob/main/Project_%20tidyverse.Rmd
+
+* Data Source
+* https://raw.githubusercontent.com/fivethirtyeight/data/master/marriage/divorce.csv
 
