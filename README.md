@@ -29,6 +29,10 @@ Spotify Data CSV: https://raw.githubusercontent.com/Doumgit/Sentiment-Analysis-P
 
 By following through this vignette, users will be able to understand how to employ Tidyverse functions effectively to analyze a music dataset, which can be further generalized to other types of data analysis workflows.
 
+# Chun Shing Leung
+* Updated DaveGreerTidyVerse.rmd under Chun_Shing_Leung_Extend_TidyVerse.rmd
+* Added a scatterplot
+
 # Souleymane Doumbia
 
 
