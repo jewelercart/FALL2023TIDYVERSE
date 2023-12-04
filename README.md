@@ -103,6 +103,10 @@ Initial Description and Link:
 * https://github.com/mollysiebecker/FALL2023TIDYVERSE/blob/main/molly_siebecker_tidyverse_create.Rmd
 * Data Source: "babynames" data set in base r
 
+Extension:
+*https://github.com/acatlin/FALL2023TIDYVERSE/blob/main/molly_siebecker_tidyverse_extend.Rmd
+*Demonstrates additional aesthetic features of ggplot2 using Fomba's examples.
+
 # Shaya Engelman
 ### stringr and dplyr functions
 Initial description and link:
