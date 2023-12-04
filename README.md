@@ -49,3 +49,9 @@ Initial Description and Link:
 Data Source:
 * https://www.kaggle.com/datasets/iamsouravbanerjee/years-of-schooling-worldwide/  
 
+
+# Frederick Jones
+### ggplot, geom_point(), geom_snooth(), datatable(), mutate(), summarize()
+Initial Description and Link: 
+* Demonstrate how to use ggplot, geom_point(), geom_snooth(), datatable(), mutate(), summarize()
+* Example extended from https://github.com/acatlin/FALL2023TIDYVERSE/blob/main/tidyverse_healthcare.Rmd
